@@ -1,0 +1,33 @@
+.social-icons {
+	width: 100%;
+	height: auto;
+	margin: auto;
+}
+.social-icons ul {
+	margin: 0px;
+	padding: 0px;
+	text-align: center;
+} 
+.social-icons ul li {
+	display: inline-block;
+	width: 50px;
+	height: 50px;
+	margin: 0px 15px;
+	border-radius: 100%;
+	background: skyblue;
+	letter-spacing: 3px;
+}
+.social-icons ul li a {
+	color: #272727;
+	font-size: 25px;
+	display: block;
+}
+
+.social-icons ul li a i{
+	line-height: 50px;
+}
+
+.social-icons ul li:hover {
+	background:#fff;
+
+}
